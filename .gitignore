@@ -104,3 +104,4 @@ ENV/
 
 # project specific
 tweets.csv
+imdb.pkl
